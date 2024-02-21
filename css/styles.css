@@ -33,3 +33,21 @@ a {
     justify-content: space-around;
 }
 
+header {
+    display: flex;
+}
+
+main {
+    width:40% ;
+    align-items: center;
+    justify-content: center;
+}
+
+.modem {
+    width: 60%;
+}
+
+#modem {
+    width: 100%;
+}
+
